@@ -68,6 +68,10 @@ export default {
       {
         label: "Login",
         url: "/login"
+      },
+      {
+        label: "DashBoard",
+        url: "/dashboard"
       }
     ]
   }),
